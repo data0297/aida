@@ -7,7 +7,7 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 - Shuo Zhang, Ph.D, Professor of the Practice
 - Jeanie Cherng, Ph.D, Industry Advisor
 
-## Student research assistants
+## Research assistants
 - Ishmam Khan (MS, DA'26)
 - Ziyi Liu (MS, DA'25)
 - Ziwen Xu (MS, Economics'25)
