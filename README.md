@@ -12,7 +12,7 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 - Ziyi Liu (MS, DA'25)
 - Ziwen Xu (MS, Economics'25)
 
-## Students with research activities (co)-advised by Prof Zhang
+## Students with research activities
 - Zijia Chen (MS, BME'26)
 - Joao Quintanilha (MS, DA'26)
 - Rui Chu (PhD, ECE [Tufts Cybersecurity and Knowledge Computing Lab](https://laogroup.ece.tufts.edu/team/))
