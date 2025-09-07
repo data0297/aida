@@ -12,11 +12,16 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 - Ziyi Liu (MS, DA'25)
 - Ziwen Xu (MS, Economics'25)
 
-## Students with research activities
+## Students
 - Zijia Chen (MS, BME'26)
 - Joao Quintanilha (MS, DA'26)
-- Rui Chu (PhD, ECE [Tufts Cybersecurity and Knowledge Computing Lab](https://laogroup.ece.tufts.edu/team/))
 - Andrew Cho (BS, Computer Science, Boston University)
+
+## Collaborators
+- Rui Chu (PhD, ECE [Tufts Cybersecurity and Knowledge Computing Lab](https://laogroup.ece.tufts.edu/team/))
+- Prof. Jennifer Williams, University of Southmapton, UK
+- Prof. Jeff Zabel, Tufts University
+- Prof. Alice Mello, Tufts University
 
 ## Alumni
 - Khambholia, Dharva Mehul (MS, DA'25->Reality Defender)
@@ -27,7 +32,7 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 Satellite Imagery (Ziwen Xu, Shuo Zhang, Jeff Zabel)
 - StoicLLM: Finetuning Llama 3 With A Small Dataset Using ORPO (Ishmam Khan)
 - Hand gesture recognition with CNNs (Ziwen Xu)
-- Speech accent deepfake dataset (Khambholia, Dharva Mehul; Zhou Zhou; Jennifer Williams, University of Southampton, UK) 
+- Speech accent deepfake dataset (Khambholia, Dharva Mehul; Zhou Zhou; Jennifer Williams) 
 - Audio Language Models
   
 
