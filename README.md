@@ -18,11 +18,17 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 - Rui Chu (PhD, ECE [Tufts Cybersecurity and Knowledge Computing Lab](https://laogroup.ece.tufts.edu/team/))
 - Andrew Cho (BS, Computer Science, Boston University)
 
+## Alumni
+- Khambholia, Dharva Mehul (MS, DA'25->Reality Defender)
+- Zhou Zhou (MS, DA'25)
+
 ## Projects
 - Estimating Regional Poverty Using Deep Learning and Multisource 
 Satellite Imagery (Ziwen Xu, Shuo Zhang, Jeff Zabel)
 - StoicLLM: Finetuning Llama 3 With A Small Dataset Using ORPO (Ishmam Khan)
 - Hand gesture recognition with CNNs (Ziwen Xu)
+- Speech accent deepfake dataset (Khambholia, Dharva Mehul; Zhou Zhou; Jennifer Williams, University of Southampton, UK) 
 - Audio Language Models
+  
 
 
