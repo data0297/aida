@@ -29,11 +29,14 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 
 ## Projects
 - Estimating Regional Poverty Using Deep Learning and Multisource 
-Satellite Imagery (Ziwen Xu, Shuo Zhang, Jeff Zabel)
+Satellite Imagery (Ziwen Xu, advised by Jeff Zabel and Shuo Zhang)
 - StoicLLM: Finetuning Llama 3 With A Small Dataset Using ORPO (Ishmam Khan)
 - Hand gesture recognition with CNNs (Ziwen Xu)
-- Speech accent deepfake dataset (Khambholia, Dharva Mehul; Zhou Zhou; Jennifer Williams) 
+- Speech accent deepfake dataset (Khambholia, Dharva Mehul; Zhou Zhou; advised by Shuo Zhang, Jennifer Williams) 
 - Audio Language Models
+- LLM inference (Rui Chu, Ziyi Liu)
+- Music source separation (Andrew Cho)
+- Modeling piano fingering and data set (Zijia Chen)
   
 
 
