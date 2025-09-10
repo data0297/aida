@@ -25,7 +25,7 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 
 ## Alumni
 - Khambholia, Dharva Mehul (MS, DA'25->Reality Defender)
-- Zhou Zhou (MS, DA'25)
+- Zhou Zhou (MS, DA'25->SinoLink Securities)
 
 ## Projects
 - Estimating Regional Poverty Using Deep Learning and Multisource 
