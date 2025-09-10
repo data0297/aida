@@ -18,7 +18,7 @@ The AIDA lab is a collection of professors, researchers, students, and industry 
 - Andrew Cho (BS, Computer Science, Boston University)
 
 ## Collaborators
-- Rui Chu (PhD'27, ECE [Tufts Cybersecurity and Knowledge Computing Lab](https://laogroup.ece.tufts.edu/team/))
+- Rui Chu (PhD, ECE'27 [Tufts Cybersecurity and Knowledge Computing Lab](https://laogroup.ece.tufts.edu/team/))
 - Prof. Jennifer Williams, University of Southmapton, UK
 - Prof. Jeff Zabel, Tufts University
 - Prof. Alice Mello, Tufts University
